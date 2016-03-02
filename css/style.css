@@ -131,6 +131,7 @@ div.tabs-content {
   padding: .5rem;
   min-height: 15rem;
   margin-top: 1px;
+  overflow-x: auto;
 }
 
 div.tabs-content .content {
